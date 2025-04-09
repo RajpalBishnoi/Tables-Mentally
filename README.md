@@ -1,7 +1,7 @@
 # Tables-Mentally
 Multiplication till 30*30
 
-Code Can DO
+What Code Can DO
 
 -Can give you either choice for asking questions about particular table only or can randomly ask any multiplication sums till 30*30.
 
@@ -11,4 +11,4 @@ Code Can DO
 
 -Measures total and average time.
 
--Shows which questions you got incorrect, your answer and their correct answer.
+-Shows which questions you got incorrect, your answer and the correct answer.
